@@ -9,13 +9,15 @@ Los datos utilizados provienen del World Bank – World Development Indicators (
 
 Proyecto_salud/
 ├── data/
-│ ├── raw/ # Datos originales descargados (sin modificar)
+│ ├── raw/ # Datos originales descargados
 │ ├── clean/ # Datos filtrados, renombrados y estandarizados
 │ └── processed/ # Datos listos para el modelado y la inferencia
+│
 ├── output/
 │ ├── tables/ # Tablas generadas durante el análisis
-│ └── figures/ # Gráficos exploratorios y gráficos finalizados
-├── scripts/ # Scripts que reproducen el análisis completo
+│ └── figures/ # Gráficos exploratorios y finales
+│
+├── scripts/ # Scripts que reproducen todo el análisis
 │ ├── 00_descarga_datos.R
 │ ├── 01_import_raw.R
 │ ├── 02_cleaning.R
@@ -24,6 +26,7 @@ Proyecto_salud/
 │ ├── 05_eda_descriptivas.R
 │ ├── 06_inferencia_regresion.R
 │ └── 07_graficos_finales.R
+│
 └── README.md
 
 
