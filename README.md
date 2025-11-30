@@ -26,8 +26,6 @@ Proyecto_salud/
 │ └── 07_graficos_finales.R
 └── README.md
 
-shell
-Copiar código
 
 ## Cómo reproducir el análisis
 
@@ -42,8 +40,6 @@ Ejecutar los scripts en este orden desde RStudio:
 06_inferencia_regresion.R
 07_graficos_finales.R
 
-shell
-Copiar código
 
 Todos los datos procesados, tablas y gráficos se generan automáticamente dentro de las carpetas correspondientes.
 
@@ -58,15 +54,10 @@ psych
 GGally
 broom
 
-yaml
-Copiar código
-
 Instalación recomendada:
 
 install.packages(c("tidyverse", "WDI", "naniar", "psych", "GGally", "broom"))
 
-markdown
-Copiar código
 
 ## Contenido del informe final
 
