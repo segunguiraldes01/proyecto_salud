@@ -83,9 +83,9 @@ La presentación final (Google Slides o PowerPoint) incluye:
 
 ## Autores
 
-- [Integrante 1]  
-- [Integrante 2]  
-- [Integrante 3]  
+- [Segundo Güiraldes 911478]  
+- [Victorino Güiraldes 911264]  
+- [Santos Grondona 907240]  
 
 ## Licencia
 
