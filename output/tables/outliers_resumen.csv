@@ -1,0 +1,6 @@
+variable,cantidad_outliers
+health_expenditure_is_outlier,79
+access_clean_water_is_outlier,44
+gdp_per_capita_ppp_is_outlier,26
+infant_mortality_is_outlier,18
+life_expectancy_is_outlier,9
